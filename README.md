@@ -14,5 +14,5 @@ Keep supporting us 😊
 
 Your beloved:-
 
-[EMCEE DEVS](https://t.me/Emcee_Devs)
-[SATYANAND](https://t.me/satyanandatripathi)
+[CARTOONS](https://t.me/Singing_cartoons_007)
+[NOBITA](http://t.me/fakefriends01)
