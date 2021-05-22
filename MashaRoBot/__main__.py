@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 𝙷𝙴𝚈,my name is Haguromo Otsusuki/n
-𝙸'𝙰𝙼 𝙰𝙽 𝙰𝙽𝙸𝙼𝙴 𝚃𝙷𝙴𝙼𝙴𝙳 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃! BY SATYA AND EMCEE DEVS 𝙲𝙻𝙸𝙲𝙺` *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂 [.](https://telegra.ph/file/36c57221ea00d88fbcd89.jpg)
+𝙸'𝙰𝙼 𝙰𝙽 CARTOONS 𝚃𝙷𝙴𝙼𝙴𝙳 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃! BY NOBITA *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂 [.](https://telegra.ph/file/36c57221ea00d88fbcd89.jpg)
 """
 
 buttons = [
@@ -89,12 +89,12 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="✨Owner✨", url="http://t.me/satyanandatripathi"),
+            text="✨Owner✨", url="http://t.me/fakefriends01"),
         InlineKeyboardButton(
-            text="👥SUPPORT👥", url="https://t.me/domin8orsupport"),
+            text="👥SUPPORT👥", url="https://t.me/Singing_cartoons_007"),
     ],
     [  
-        InlineKeyboardButton(text="Thanks to", url="https://t.me/emcee_support"),
+        InlineKeyboardButton(text="Thanks to", url="https://t.me/bestiessingingsquad"),
     ], 
     
 ]
@@ -105,7 +105,7 @@ HELP_STRINGS = """
 ༆*Rikudo Senin comes with many special features in it*༆
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF EMCEE*꧂
 𖣘 *All commands can either be used with* `/` *or* `!`.
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @Emcee_Support* [.](https://telegra.ph/file/36c57221ea00d88fbcd89.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @Singing_cartoons_007× [.](https://telegra.ph/file/71d688dc50d6750fb107f.jpg)
 """
 
 
