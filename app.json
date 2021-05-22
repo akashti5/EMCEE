@@ -1,6 +1,6 @@
 {
-      "name": "EMCEE",
-      "description": "Telegram group management bot.",
+      "name": "NOBITA",
+      "description": "Telegram group management bot by NOBITA",
       "keywords": [
          "telegram",
          "anime",
@@ -8,7 +8,7 @@
          "manager",
          "Emcee"
       ],   
-   "repository": "https://github.com/satyanandatripathi/EMCEE",
+   "repository": "https://github.com/nobita/CARTOONS",
    "addons": [
       {
          "options": {
